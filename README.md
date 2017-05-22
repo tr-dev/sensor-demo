@@ -24,4 +24,5 @@ An application that simulates sensors that periodically sends data to a server
 - Add alerting when thresholds go over events
 - Setup docker compose
 - Make Dockerfile for frontend application
+- Create separate dev/prod webpack configs
 - General code cleanup and organization
